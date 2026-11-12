@@ -1,0 +1,59 @@
+:root {
+  color-scheme: light;
+  font-family: system-ui, sans-serif;
+  color: #233044;
+  background: #f7f8fa;
+  line-height: 1.6;
+}
+
+body {
+  margin: 0;
+}
+
+main, footer {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+header {
+  padding: 2rem 0;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: clamp(2.5rem, 8vw, 4rem);
+  margin: 0.3rem 0;
+}
+
+.eyebrow {
+  color: #52657d;
+  font-weight: 600;
+}
+
+.intro {
+  font-size: 1.2rem;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+}
+
+a {
+  color: #14528c;
+}
+
+section {
+  border-top: 1px solid #d5dce5;
+  padding: 1.5rem 0;
+}
+
+footer {
+  color: #52657d;
+  font-size: 0.9rem;
+}
