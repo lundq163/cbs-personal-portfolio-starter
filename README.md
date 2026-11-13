@@ -24,17 +24,17 @@ Complete the short setup survey so we know what help you may need:
 
 ## Make your own copy
 
-Fork this repository on GitHub (recommended) so your copy already has the starter files and workflow. If you create a new repository instead, copy all of the starter files and the `.github/workflows` folder into it. A public repository works with GitHub Free.
+On GitHub, select **Use this template > Create a new repository** to make your own copy. Name the new repository `YOUR-USERNAME.github.io`, replacing `YOUR-USERNAME` with your GitHub username. This gives your portfolio the easy-to-find address `https://YOUR-USERNAME.github.io/`. A public repository works with GitHub Free.
 
 ### Event 1: make and publish the first version
 
 The main path is using Git on your computer with an SSH connection to GitHub. If you have not set up SSH yet, follow GitHub's [SSH key guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh); your instructor can help. Alternatively, you can use GitHub's website to edit `index.html` and `style.css` and commit each change.
 
-1. Clone your copy to your computer. Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub username and repository name:
+1. Clone your copy to your computer. Replace `YOUR-USERNAME` with your GitHub username:
 
    ```sh
-   git clone git@github.com:YOUR-USERNAME/YOUR-REPOSITORY.git
-   cd YOUR-REPOSITORY
+   git clone git@github.com:YOUR-USERNAME/YOUR-USERNAME.github.io.git
+   cd YOUR-USERNAME.github.io
    ```
 
 2. Edit `index.html`: replace the placeholder name, introduction, project, and contact text with your own. Edit `style.css` to change the appearance.
@@ -58,7 +58,7 @@ The included [Pages workflow](.github/workflows/pages.yml) automatically package
 
 Check the **Actions** tab for deployment progress. When it succeeds, find your published URL under **Settings > Pages**. It can take several minutes for the site to appear.
 
-For a repository named `portfolio`, the usual address is `https://YOUR-USERNAME.github.io/portfolio/`. If the repository is named exactly `YOUR-USERNAME.github.io`, the address is `https://YOUR-USERNAME.github.io/` instead. GitHub permits only one user site per account; choose a different repository name if you already have one.
+If you named your repository `YOUR-USERNAME.github.io`, your portfolio address is `https://YOUR-USERNAME.github.io/`. GitHub allows only one user site per account. If you already have a repository with that name, keep it and give this portfolio a different repository name; it will be published at `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/` instead.
 
 Use relative links to files, such as `style.css` or `images/photo.jpg`, not `/style.css`. Relative paths work both for the account site's root and a project site's repository path.
 
@@ -67,7 +67,3 @@ Use relative links to files, such as `style.css` or `images/photo.jpg`, not `/st
 Open `index.html` in a browser to preview it locally. GitHub Pages serves static files; it cannot run server-side code or safely hide secrets. **Everything you publish is public. Never commit passwords, API keys, tokens, or other secrets.** Share only information and files you have permission to publish.
 
 See GitHub's [Pages quickstart](https://docs.github.com/en/pages/quickstart) and [publishing source guide](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) for details and troubleshooting.
-
-## Inspiration
-
-Inspired by [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website), [pmichaillat/pmichaillat.github.io](https://github.com/pmichaillat/pmichaillat.github.io), and [lundq163/lundq163.github.io](https://github.com/lundq163/lundq163.github.io). This starter is a fresh, smaller static implementation rather than a copy of their Hugo themes or personal content.
