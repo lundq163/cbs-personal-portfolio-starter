@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Personal portfolio design board template</title>
+  <desc id="desc">A grayscale worksheet for defining a portfolio's identity, voice, color palette, typography, and website touchpoints.</desc>
+  <rect width="1600" height="1200" fill="#fafafa"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#171717">
+    <text x="88" y="95" font-size="17" font-weight="700" letter-spacing="3">PERSONAL PORTFOLIO / DESIGN BOARD</text>
+    <text x="88" y="155" font-size="42" font-weight="700">Make it yours.</text>
+    <text x="88" y="191" font-size="20" fill="#555">A blank starting point for your own visual identity — not a finished theme.</text>
+    <line x1="88" y1="225" x2="1512" y2="225" stroke="#ccc" stroke-width="2"/>
+
+    <rect x="88" y="270" width="455" height="340" rx="8" fill="#eee"/>
+    <text x="120" y="310" font-size="15" font-weight="700" letter-spacing="2" fill="#555">IDENTITY</text>
+    <rect x="120" y="338" width="391" height="171" rx="5" fill="#f8f8f8" stroke="#bdbdbd" stroke-width="2" stroke-dasharray="8 8"/>
+    <circle cx="315" cy="405" r="32" fill="#ddd"/>
+    <text x="315" y="466" text-anchor="middle" font-size="18" fill="#666">Your mark or image (optional)</text>
+    <text x="120" y="555" font-size="32" font-weight="700" fill="#555">Your name / wordmark</text>
+    <text x="120" y="584" font-size="16" fill="#777">What should people remember?</text>
+
+    <text x="600" y="302" font-size="15" font-weight="700" letter-spacing="2" fill="#666">KEY MESSAGE</text>
+    <text x="600" y="350" font-family="Georgia, serif" font-size="34" fill="#444">What do you want visitors</text>
+    <text x="600" y="393" font-family="Georgia, serif" font-size="34" fill="#444">to understand about you?</text>
+    <line x1="600" y1="430" x2="1512" y2="430" stroke="#ccc" stroke-width="2"/>
+    <text x="600" y="472" font-size="15" font-weight="700" letter-spacing="2" fill="#666">VOICE</text>
+    <text x="600" y="520" font-family="Georgia, serif" font-size="30" fill="#444">Choose three words that describe your tone.</text>
+    <text x="600" y="560" font-size="18" fill="#777">For example: thoughtful · energetic · practical</text>
+
+    <text x="88" y="680" font-size="15" font-weight="700" letter-spacing="2" fill="#666">COLOR PALETTE</text>
+    <text x="88" y="710" font-size="17" fill="#666">Replace these grayscale placeholders with your own colors.</text>
+    <g>
+      <rect x="88" y="735" width="95" height="90" rx="4" fill="#222"/>
+      <rect x="195" y="735" width="95" height="90" rx="4" fill="#777"/>
+      <rect x="302" y="735" width="95" height="90" rx="4" fill="#bbb"/>
+      <rect x="409" y="735" width="95" height="90" rx="4" fill="#e1e1e1"/>
+      <rect x="516" y="735" width="95" height="90" rx="4" fill="#f6f6f6" stroke="#bbb"/>
+      <text x="88" y="852" font-size="14" fill="#666">Primary</text>
+      <text x="195" y="852" font-size="14" fill="#666">Secondary</text>
+      <text x="302" y="852" font-size="14" fill="#666">Accent</text>
+      <text x="409" y="852" font-size="14" fill="#666">Surface</text>
+      <text x="516" y="852" font-size="14" fill="#666">Background</text>
+    </g>
+    <text x="720" y="680" font-size="15" font-weight="700" letter-spacing="2" fill="#666">TYPOGRAPHY</text>
+    <text x="720" y="710" font-size="17" fill="#666">Choose readable typefaces that fit your voice.</text>
+    <text x="720" y="802" font-family="Georgia, serif" font-size="72" fill="#444">Aa</text>
+    <text x="820" y="775" font-size="21">Heading typeface</text>
+    <text x="820" y="802" font-size="16" fill="#777">Name and example</text>
+    <text x="1110" y="802" font-size="72" fill="#444">Aa</text>
+    <text x="1215" y="775" font-size="21">Body typeface</text>
+    <text x="1215" y="802" font-size="16" fill="#777">Name and example</text>
+
+    <line x1="88" y1="900" x2="1512" y2="900" stroke="#ccc" stroke-width="2"/>
+    <text x="88" y="945" font-size="15" font-weight="700" letter-spacing="2" fill="#666">WEBSITE TOUCHPOINTS</text>
+    <text x="88" y="974" font-size="17" fill="#666">Sketch how your identity might show up. Your choices need not match these examples.</text>
+    <g fill="#f0f0f0" stroke="#c5c5c5">
+      <rect x="88" y="1005" width="438" height="105" rx="6"/>
+      <rect x="559" y="1005" width="438" height="105" rx="6"/>
+      <rect x="1030" y="1005" width="482" height="105" rx="6"/>
+    </g>
+    <text x="112" y="1044" font-size="19" font-weight="700">Homepage</text>
+    <text x="112" y="1077" font-size="16" fill="#666">Introduction, layout, and first impression</text>
+    <text x="583" y="1044" font-size="19" font-weight="700">Project card</text>
+    <text x="583" y="1077" font-size="16" fill="#666">Title, description, image, and link</text>
+    <text x="1054" y="1044" font-size="19" font-weight="700">Mobile view</text>
+    <text x="1054" y="1077" font-size="16" fill="#666">How the same design adapts to a small screen</text>
+    <text x="88" y="1160" font-size="15" fill="#777">WORKSHEET / Replace prompts with your own ideas. Consider contrast and readability as you design.</text>
+  </g>
+</svg>
